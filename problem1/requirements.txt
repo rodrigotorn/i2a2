@@ -1,2 +1,6 @@
 jupyterlab
 jupytext
+pandas
+gensim==3.8.1
+ipywidgets
+sklearn
